@@ -31,7 +31,7 @@
 <a href="https://instagram.com/markbang9?igshid=NzZlODBkYWE4Ng==" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-  
+
 
 <br/>  
 
@@ -41,3 +41,5 @@
  
 ## Activity Graph
 ![markbang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=markbang&theme=xcode)
+## Coding Activity
+<figure><img src="https://wakatime.com/share/@markbang/ea21c385-5f3a-4713-a1e6-68acf5011dac.svg"></img></figure>
