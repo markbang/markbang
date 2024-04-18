@@ -16,7 +16,9 @@
   
 
 <br/>  
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=markbang&color=lightgrey">
+</div>
 
 ## Connect with me  
 <a href="https://github.com/markbang" target="_blank">
