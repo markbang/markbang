@@ -24,7 +24,7 @@
 <a href="https://github.com/markbang" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/markbangwu" target="_blank">
+<a href="https://x.com/markbangwu" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100091758283832" target="_blank">
@@ -34,6 +34,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
+[![roadmap.sh](https://roadmap.sh/card/wide/66f3ba84c45e253cb04054bc?variant=dark)](https://roadmap.sh/u/bangwu)
 
 <br/>  
 
