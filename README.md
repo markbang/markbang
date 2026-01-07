@@ -48,7 +48,6 @@
 ### 🛠 Tech Stack
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,docker,git,golang,fastapi,arch&theme=dark">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,docker,git,golang,fastapi,arch&theme=light" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,docker,git,golang,fastapi,arch&theme=dark" />
   </picture>
 </div>
