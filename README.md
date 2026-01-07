@@ -30,7 +30,7 @@
       <td>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@markbang/4d1586d7-5293-467d-9b46-85c3e422f3ff.svg">
-          <img alt="Coding Activity" src="https://wakatime.com/share/@markbang/ea21c385-5f3a-4713-a1e6-68acf5011dac.svg" width="400">
+          <img alt="Coding Activity" src="https://wakatime.com/share/@markbang/60e78397-8702-4d4e-baa9-675f0d1feb0b.svg" width="400">
         </picture>
       </td>
       <td>
