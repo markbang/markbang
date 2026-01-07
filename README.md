@@ -1,50 +1,54 @@
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="600" valign="top">
+      <h1>🚀 Hello, I'm markbang/bangwu</h1>
+      <p><b>Developer | Tech Enthusiast | Explorer</b></p>
+      <p>
+        <a href="https://github.com/markbang" target="_blank">
+          <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
+        </a>
+        <a href="https://x.com/markbangwu" target="_blank">
+          <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+        </a>
+      </p>
+      <a href="https://roadmap.sh/u/bangwu">
+        <img src="https://roadmap.sh/card/wide/66f3ba84c45e253cb04054bc?variant=dark" width="400" />
+      </a>
+    </td>
+    <td width="250" align="center">
+      <img src="https://cdn.313797.xyz/assets/sticker/gifs/amongus_fileok.gif" width="200" />
+    </td>
+  </tr>
+</table>
+
+
+### 📊 Coding Activity
+
 <div align="center">
-<img src="https://cdn.313797.xyz/assets/sticker/gifs/amongus_fileok.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm MarkBang 棒无👋</div>  
-  
-
-- 🔭 I’m currently studying in ECNU(EAST CHINA NOMAL UNIVERSITY).
-
-- 🌱 I’m currently learning IMIS.
-
-- 👯 I’m looking to collaborate on everything I can do.
-
-- 📫 How to reach me: E-mail markbang35@gmail.com
-  
-
-<br/>  
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=markbang&color=lightgrey">
+  <table border="0">
+    <tr>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@markbang/4d1586d7-5293-467d-9b46-85c3e422f3ff.svg">
+          <img alt="Coding Activity" src="https://wakatime.com/share/@markbang/ea21c385-5f3a-4713-a1e6-68acf5011dac.svg" width="400">
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@markbang/661a6ca4-df30-46a0-9fd8-799fe9c67819.svg">
+          <img alt="Languages Distribution" src="https://wakatime.com/share/@markbang/a618de01-9ba9-4b2c-8e91-fd3a41b8cabf.svg" width="400">
+        </picture>
+      </td>
+    </tr>
+  </table>
 </div>
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/markbang" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://x.com/markbangwu" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100091758283832" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/markbangwu?igshid=NzZlODBkYWE4Ng==" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+---
 
-[![roadmap.sh](https://roadmap.sh/card/wide/66f3ba84c45e253cb04054bc?variant=dark)](https://roadmap.sh/u/bangwu)
-
-</div>
-<br/>  
-
-
-## Github Stats  
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=markbang&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
- 
-## Activity Graph
-![markbang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=markbang&theme=xcode)
-## Coding Activity
-<figure><img src="https://wakatime.com/share/@markbang/ea21c385-5f3a-4713-a1e6-68acf5011dac.svg"></img></figure>
+### 🛠 Tech Stack
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,docker,git,golang,fastapi,arch&theme=dark">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,docker,git,golang,fastapi,arch&theme=light" />
+  </picture>
+</p>
