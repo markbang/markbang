@@ -1,7 +1,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="600" valign="top">
-      <h1>🚀 Hello, I'm markbang/bangwu</h1>
+      <h1>Hello, I'm markbang/bangwu</h1>
       <p><b>Developer | Tech Enthusiast | Explorer</b></p>
       <p>
         <a href="https://github.com/markbang" target="_blank">
@@ -46,9 +46,9 @@
 ---
 
 ### 🛠 Tech Stack
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,docker,git,golang,fastapi,arch&theme=dark">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,docker,git,golang,fastapi,arch&theme=light" />
   </picture>
-</p>
+</div>
