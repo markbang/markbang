@@ -3,14 +3,14 @@
     <td width="600" valign="top">
       <h1>Hello, I'm markbang/bangwu</h1>
       <p><b>Developer | Tech Enthusiast | Explorer</b></p>
-      <p>
+      <!-- <p>
         <a href="https://github.com/markbang" target="_blank">
           <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
         </a>
         <a href="https://x.com/markbangwu" target="_blank">
           <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
         </a>
-      </p>
+      </p> -->
       <a href="https://roadmap.sh/u/bangwu">
         <img src="https://roadmap.sh/card/wide/66f3ba84c45e253cb04054bc?variant=dark" width="400" />
       </a>
