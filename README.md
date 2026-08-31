@@ -11,18 +11,26 @@
           <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
         </a>
       </p> -->
-      <a href="https://roadmap.sh/u/bangwu">
-        <img src="https://roadmap.sh/card/wide/66f3ba84c45e253cb04054bc?variant=dark" width="400" />
+      <a href="https://bangwu.me">
+        blog
       </a>
+      |
+      <a href="https://base.bangwu.me">
+        knowledge base  
+      <a/>
+      |
+      <a href="https://now.bangwu.me">
+        now  
+      <a/>
     </td>
     <td width="250" align="center">
-      <img src="https://cdn.313797.xyz/assets/sticker/gifs/amongus_fileok.gif" width="200" />
+      <img src="https://cdn.bangwu.me/assets/sticker/gifs/amongus_fileok.gif" width="200" />
     </td>
   </tr>
 </table>
 
 
-### 📊 Coding Activity
+### Coding Activity
 
 <div align="center">
   <table border="0">
