@@ -56,6 +56,6 @@
 ### 🛠 Tech Stack
 <div align="center">
   <picture>
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,docker,git,golang,fastapi,arch,k8s&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,docker,git,golang,fastapi,arch,k8s,postgres&theme=dark" />
   </picture>
 </div>
