@@ -75,7 +75,7 @@ def keeper_daily():
     req = urllib.request.Request(
         f"{base}/api/v1/auth/api-key-login",
         data=json.dumps({"apiKey": api_key}).encode(),
-        headers={"Content-Type": "application/json"},
+        headers={"Content-Type": "application/json", "X-CPA-Usage-Keeper-Request": "fetch"},
         method="POST",
     )
     opener.open(req, timeout=30).read()
