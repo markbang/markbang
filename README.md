@@ -30,25 +30,13 @@
 </table>
 
 
-### Coding Activity
+### Token Usage
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@markbang/4d1586d7-5293-467d-9b46-85c3e422f3ff.svg">
-          <img alt="Coding Activity" src="https://wakatime.com/share/@markbang/60e78397-8702-4d4e-baa9-675f0d1feb0b.svg" width="400">
-        </picture>
-      </td>
-      <td>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@markbang/661a6ca4-df30-46a0-9fd8-799fe9c67819.svg">
-          <img alt="Languages Distribution" src="https://wakatime.com/share/@markbang/a618de01-9ba9-4b2c-8e91-fd3a41b8cabf.svg" width="400">
-        </picture>
-      </td>
-    </tr>
-  </table>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/token-usage-dark.svg">
+    <img alt="Token usage in the last 30 days" src="./assets/token-usage-light.svg" width="800">
+  </picture>
 </div>
 
 ---

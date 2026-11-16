@@ -1,0 +1,50 @@
+name: token-usage
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: token-usage
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check write-back credential
+        env:
+          SECRETS_PAT: ${{ secrets.SECRETS_PAT }}
+        run: |
+          [ -n "$SECRETS_PAT" ] || { echo "::error::SECRETS_PAT missing; refusing to rotate COHUB_REFRESH_TOKEN"; exit 1; }
+
+      - name: Render SVGs
+        run: python3 scripts/token_usage.py
+        env:
+          COHUB_REFRESH_TOKEN: ${{ secrets.COHUB_REFRESH_TOKEN }}
+          COHUB_REFRESH_TOKEN_OUT: ${{ runner.temp }}/cohub-refresh-token
+          KEEPER_API_KEY: ${{ secrets.KEEPER_PASSWORD }}
+
+      # Runs even if rendering failed: the old refresh token is already spent once Logto rotated it.
+      - name: Persist rotated Cohub refresh token
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.SECRETS_PAT }}
+        run: |
+          f="$RUNNER_TEMP/cohub-refresh-token"
+          if [ -s "$f" ]; then
+            gh secret set COHUB_REFRESH_TOKEN -R "$GITHUB_REPOSITORY" < "$f"
+          fi
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898233+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git diff --cached --quiet || { git commit -m "chore: update token usage" && git push; }
