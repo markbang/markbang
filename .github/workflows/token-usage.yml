@@ -2,7 +2,7 @@ name: token-usage
 
 on:
   schedule:
-    - cron: "17 */6 * * *"
+    - cron: "17 15 * * *"
   workflow_dispatch:
 
 permissions:
