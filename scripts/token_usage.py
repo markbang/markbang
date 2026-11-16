@@ -72,15 +72,20 @@ def keeper_daily():
         print("KEEPER_API_KEY not set; skipping CLIProxyAPI source", file=sys.stderr)
         return None
     opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()))
+    # Cloudflare in front of keeper rejects the default Python-urllib UA (error 1010).
+    opener.addheaders = [("User-Agent", "markbang-token-usage/1.0")]
     req = urllib.request.Request(
         f"{base}/api/v1/auth/api-key-login",
         data=json.dumps({"apiKey": api_key}).encode(),
         headers={"Content-Type": "application/json", "X-CPA-Usage-Keeper-Request": "fetch"},
         method="POST",
     )
-    opener.open(req, timeout=30).read()
-    with opener.open(f"{base}/api/v1/key-overview?range={DAYS}d", timeout=60) as resp:
-        series = json.load(resp)["series"]
+    try:
+        opener.open(req, timeout=30).read()
+        with opener.open(f"{base}/api/v1/key-overview?range={DAYS}d", timeout=60) as resp:
+            series = json.load(resp)["series"]
+    except urllib.error.HTTPError as e:
+        sys.exit(f"Keeper {e.url} failed ({e.code}: {e.read().decode()[:200]}); check KEEPER_PASSWORD secret (CPA API key)")
     daily = defaultdict(int)
     for bucket, tokens in zip(series["buckets"], series["tokens"]):
         daily[date.fromisoformat(bucket[:10])] += tokens
