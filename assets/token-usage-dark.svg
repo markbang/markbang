@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="260" viewBox="0 0 800 260" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
 <rect width="800" height="260" rx="10" fill="#0d1117" stroke="#30363d"/>
 <text x="24" y="40" font-size="13" fill="#9198a1">Tokens · last 30 days</text>
-<text x="24" y="74" font-size="30" font-weight="600" fill="#f0f6fc">20.6B</text>
+<text x="24" y="74" font-size="30" font-weight="600" fill="#f0f6fc">21.2B</text>
 <rect x="646" y="31" width="10" height="10" rx="2" fill="#f0b552"/>
-<text x="661" y="40" font-size="12" fill="#9198a1">CLIProxyAPI 1.1B</text>
+<text x="661" y="40" font-size="12" fill="#9198a1">CLIProxyAPI 1.2B</text>
 <rect x="537" y="31" width="10" height="10" rx="2" fill="#4493f8"/>
-<text x="552" y="40" font-size="12" fill="#9198a1">Cohub 19.5B</text>
-<text x="776" y="74" font-size="12" text-anchor="end" fill="#9198a1">claude-opus-5-5 10.5B  ·  deepseek-flash 7.5B  ·  claude-opus-5-5-d 1.1B</text>
+<text x="552" y="40" font-size="12" fill="#9198a1">Cohub 20.0B</text>
+<text x="776" y="74" font-size="12" text-anchor="end" fill="#9198a1">claude-opus-5-5 10.6B  ·  deepseek-flash 7.8B  ·  claude-opus-5-5-d 1.1B</text>
 <line x1="24" y1="224" x2="776" y2="224" stroke="#30363d"/>
 <rect x="28.0" y="183.1" width="17.0" height="40.9" rx="1.5" fill="#4493f8"><title>2026-10-19 666.3M</title></rect>
 <rect x="28.0" y="181.5" width="17.0" height="1.6" rx="1.5" fill="#f0b552"><title>2026-10-19 25.4M</title></rect>
@@ -61,7 +61,8 @@
 <rect x="704.8" y="90.6" width="17.0" height="1.5" rx="1.5" fill="#f0b552"><title>2026-11-15 2.2M</title></rect>
 <rect x="729.9" y="107.6" width="17.0" height="116.4" rx="1.5" fill="#4493f8"><title>2026-11-16 1.9B</title></rect>
 <rect x="729.9" y="106.1" width="17.0" height="1.5" rx="1.5" fill="#f0b552"><title>2026-11-16 18.9M</title></rect>
-<rect x="754.9" y="186.7" width="17.0" height="37.3" rx="1.5" fill="#4493f8"><title>2026-11-17 606.6M</title></rect>
+<rect x="754.9" y="153.4" width="17.0" height="70.6" rx="1.5" fill="#4493f8"><title>2026-11-17 1.1B</title></rect>
+<rect x="754.9" y="149.9" width="17.0" height="3.5" rx="1.5" fill="#f0b552"><title>2026-11-17 57.4M</title></rect>
 <text x="36.5" y="246" font-size="11" text-anchor="middle" fill="#9198a1">10-19</text>
 <text x="412.5" y="246" font-size="11" text-anchor="middle" fill="#9198a1">11-03</text>
 <text x="763.5" y="246" font-size="11" text-anchor="middle" fill="#9198a1">11-17</text>
