@@ -1,68 +1,46 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="260" viewBox="0 0 800 260" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
 <rect width="800" height="260" rx="10" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="24" y="40" font-size="13" fill="#59636e">Tokens · last 30 days</text>
-<text x="24" y="74" font-size="30" font-weight="600" fill="#1f2328">21.3B</text>
-<rect x="646" y="31" width="10" height="10" rx="2" fill="#e8a33d"/>
-<text x="661" y="40" font-size="12" fill="#59636e">CLIProxyAPI 1.2B</text>
-<rect x="537" y="31" width="10" height="10" rx="2" fill="#1f6feb"/>
-<text x="552" y="40" font-size="12" fill="#59636e">Cohub 20.1B</text>
-<text x="776" y="74" font-size="12" text-anchor="end" fill="#59636e">claude-opus-5-5 10.9B  ·  deepseek-flash 7.8B  ·  claude-opus-5-5-d 1.1B</text>
+<text x="24" y="74" font-size="30" font-weight="600" fill="#1f2328">21.9B</text>
+<rect x="632" y="31" width="10" height="10" rx="2" fill="#e8a33d"/>
+<text x="647" y="40" font-size="12" fill="#59636e">CLIProxyAPI 227.9M</text>
+<rect x="523" y="31" width="10" height="10" rx="2" fill="#1f6feb"/>
+<text x="538" y="40" font-size="12" fill="#59636e">Cohub 21.7B</text>
+<text x="776" y="74" font-size="12" text-anchor="end" fill="#59636e">claude-opus-5-5 11.7B  ·  deepseek-flash 8.0B  ·  claude-opus-5-5-d 1.1B</text>
 <line x1="24" y1="224" x2="776" y2="224" stroke="#d1d9e0"/>
-<rect x="28.0" y="204.7" width="17.0" height="19.3" rx="1.5" fill="#1f6feb"><title>2026-10-20 314.8M</title></rect>
-<rect x="28.0" y="203.2" width="17.0" height="1.5" rx="1.5" fill="#e8a33d"><title>2026-10-20 837.8K</title></rect>
-<rect x="53.1" y="194.5" width="17.0" height="29.5" rx="1.5" fill="#1f6feb"><title>2026-10-21 479.9M</title></rect>
-<rect x="53.1" y="193.0" width="17.0" height="1.5" rx="1.5" fill="#e8a33d"><title>2026-10-21 20.9M</title></rect>
-<rect x="78.1" y="197.0" width="17.0" height="27.0" rx="1.5" fill="#1f6feb"><title>2026-10-22 439.0M</title></rect>
-<rect x="78.1" y="195.5" width="17.0" height="1.5" rx="1.5" fill="#e8a33d"><title>2026-10-22 6.0M</title></rect>
-<rect x="103.2" y="212.6" width="17.0" height="11.4" rx="1.5" fill="#1f6feb"><title>2026-10-23 186.2M</title></rect>
-<rect x="103.2" y="211.1" width="17.0" height="1.5" rx="1.5" fill="#e8a33d"><title>2026-10-23 1.8M</title></rect>
-<rect x="128.3" y="212.4" width="17.0" height="11.6" rx="1.5" fill="#1f6feb"><title>2026-10-24 188.4M</title></rect>
-<rect x="153.3" y="204.7" width="17.0" height="19.3" rx="1.5" fill="#1f6feb"><title>2026-10-25 313.7M</title></rect>
-<rect x="178.4" y="195.3" width="17.0" height="28.7" rx="1.5" fill="#1f6feb"><title>2026-10-26 467.9M</title></rect>
-<rect x="178.4" y="192.3" width="17.0" height="3.0" rx="1.5" fill="#e8a33d"><title>2026-10-26 48.1M</title></rect>
-<rect x="203.5" y="208.5" width="17.0" height="15.5" rx="1.5" fill="#1f6feb"><title>2026-10-27 252.9M</title></rect>
-<rect x="203.5" y="206.1" width="17.0" height="2.4" rx="1.5" fill="#e8a33d"><title>2026-10-27 38.4M</title></rect>
-<rect x="228.5" y="213.8" width="17.0" height="10.2" rx="1.5" fill="#1f6feb"><title>2026-10-28 166.6M</title></rect>
-<rect x="228.5" y="211.9" width="17.0" height="1.9" rx="1.5" fill="#e8a33d"><title>2026-10-28 30.4M</title></rect>
-<rect x="253.6" y="216.7" width="17.0" height="7.3" rx="1.5" fill="#1f6feb"><title>2026-10-29 119.6M</title></rect>
-<rect x="253.6" y="214.2" width="17.0" height="2.5" rx="1.5" fill="#e8a33d"><title>2026-10-29 40.4M</title></rect>
-<rect x="278.7" y="205.3" width="17.0" height="18.7" rx="1.5" fill="#1f6feb"><title>2026-10-30 304.8M</title></rect>
-<rect x="278.7" y="202.8" width="17.0" height="2.5" rx="1.5" fill="#e8a33d"><title>2026-10-30 40.9M</title></rect>
-<rect x="303.7" y="212.6" width="17.0" height="11.4" rx="1.5" fill="#1f6feb"><title>2026-10-31 185.8M</title></rect>
-<rect x="303.7" y="211.1" width="17.0" height="1.5" rx="1.5" fill="#e8a33d"><title>2026-10-31 4.8M</title></rect>
-<rect x="328.8" y="172.2" width="17.0" height="51.8" rx="1.5" fill="#1f6feb"><title>2026-11-01 844.0M</title></rect>
-<rect x="328.8" y="170.7" width="17.0" height="1.5" rx="1.5" fill="#e8a33d"><title>2026-11-01 117.8K</title></rect>
-<rect x="353.9" y="178.9" width="17.0" height="45.1" rx="1.5" fill="#1f6feb"><title>2026-11-02 733.9M</title></rect>
-<rect x="353.9" y="177.4" width="17.0" height="1.5" rx="1.5" fill="#e8a33d"><title>2026-11-02 15.0M</title></rect>
-<rect x="378.9" y="201.2" width="17.0" height="22.8" rx="1.5" fill="#1f6feb"><title>2026-11-03 371.6M</title></rect>
-<rect x="378.9" y="199.7" width="17.0" height="1.5" rx="1.5" fill="#e8a33d"><title>2026-11-03 20.6M</title></rect>
-<rect x="404.0" y="185.0" width="17.0" height="39.0" rx="1.5" fill="#1f6feb"><title>2026-11-04 635.7M</title></rect>
-<rect x="404.0" y="180.4" width="17.0" height="4.6" rx="1.5" fill="#e8a33d"><title>2026-11-04 74.2M</title></rect>
-<rect x="429.1" y="181.2" width="17.0" height="42.8" rx="1.5" fill="#1f6feb"><title>2026-11-05 696.1M</title></rect>
-<rect x="454.1" y="198.8" width="17.0" height="25.2" rx="1.5" fill="#1f6feb"><title>2026-11-06 410.3M</title></rect>
-<rect x="479.2" y="188.6" width="17.0" height="35.4" rx="1.5" fill="#1f6feb"><title>2026-11-07 577.2M</title></rect>
-<rect x="504.3" y="189.9" width="17.0" height="34.1" rx="1.5" fill="#1f6feb"><title>2026-11-08 555.7M</title></rect>
-<rect x="504.3" y="188.4" width="17.0" height="1.5" rx="1.5" fill="#e8a33d"><title>2026-11-08 415.3K</title></rect>
-<rect x="529.3" y="160.5" width="17.0" height="63.5" rx="1.5" fill="#1f6feb"><title>2026-11-09 1.0B</title></rect>
-<rect x="529.3" y="116.4" width="17.0" height="44.1" rx="1.5" fill="#e8a33d"><title>2026-11-09 717.6M</title></rect>
-<rect x="554.4" y="172.2" width="17.0" height="51.8" rx="1.5" fill="#1f6feb"><title>2026-11-10 843.0M</title></rect>
-<rect x="554.4" y="170.7" width="17.0" height="1.5" rx="1.5" fill="#e8a33d"><title>2026-11-10 14.3M</title></rect>
-<rect x="579.5" y="180.4" width="17.0" height="43.6" rx="1.5" fill="#1f6feb"><title>2026-11-11 710.2M</title></rect>
-<rect x="579.5" y="178.9" width="17.0" height="1.5" rx="1.5" fill="#e8a33d"><title>2026-11-11 1.0M</title></rect>
-<rect x="604.5" y="183.0" width="17.0" height="41.0" rx="1.5" fill="#1f6feb"><title>2026-11-12 667.1M</title></rect>
-<rect x="604.5" y="181.5" width="17.0" height="1.5" rx="1.5" fill="#e8a33d"><title>2026-11-12 1.5M</title></rect>
-<rect x="629.6" y="137.8" width="17.0" height="86.2" rx="1.5" fill="#1f6feb"><title>2026-11-13 1.4B</title></rect>
-<rect x="629.6" y="136.3" width="17.0" height="1.5" rx="1.5" fill="#e8a33d"><title>2026-11-13 2.2M</title></rect>
-<rect x="654.7" y="146.4" width="17.0" height="77.6" rx="1.5" fill="#1f6feb"><title>2026-11-14 1.3B</title></rect>
-<rect x="654.7" y="144.9" width="17.0" height="1.5" rx="1.5" fill="#e8a33d"><title>2026-11-14 53.8K</title></rect>
-<rect x="679.7" y="92.1" width="17.0" height="131.9" rx="1.5" fill="#1f6feb"><title>2026-11-15 2.1B</title></rect>
-<rect x="679.7" y="90.6" width="17.0" height="1.5" rx="1.5" fill="#e8a33d"><title>2026-11-15 2.2M</title></rect>
-<rect x="704.8" y="107.6" width="17.0" height="116.4" rx="1.5" fill="#1f6feb"><title>2026-11-16 1.9B</title></rect>
-<rect x="704.8" y="106.1" width="17.0" height="1.5" rx="1.5" fill="#e8a33d"><title>2026-11-16 18.9M</title></rect>
-<rect x="729.9" y="127.5" width="17.0" height="96.5" rx="1.5" fill="#1f6feb"><title>2026-11-17 1.6B</title></rect>
-<rect x="729.9" y="122.8" width="17.0" height="4.7" rx="1.5" fill="#e8a33d"><title>2026-11-17 77.3M</title></rect>
-<rect x="754.9" y="203.3" width="17.0" height="20.7" rx="1.5" fill="#1f6feb"><title>2026-11-18 336.5M</title></rect>
-<text x="36.5" y="246" font-size="11" text-anchor="middle" fill="#59636e">10-20</text>
-<text x="412.5" y="246" font-size="11" text-anchor="middle" fill="#59636e">11-04</text>
-<text x="763.5" y="246" font-size="11" text-anchor="middle" fill="#59636e">11-18</text>
+<rect x="28.0" y="194.5" width="17.0" height="29.5" rx="1.5" fill="#1f6feb"><title>2026-10-21 479.9M</title></rect>
+<rect x="53.1" y="197.0" width="17.0" height="27.0" rx="1.5" fill="#1f6feb"><title>2026-10-22 439.0M</title></rect>
+<rect x="78.1" y="212.6" width="17.0" height="11.4" rx="1.5" fill="#1f6feb"><title>2026-10-23 186.2M</title></rect>
+<rect x="103.2" y="212.4" width="17.0" height="11.6" rx="1.5" fill="#1f6feb"><title>2026-10-24 188.4M</title></rect>
+<rect x="128.3" y="204.7" width="17.0" height="19.3" rx="1.5" fill="#1f6feb"><title>2026-10-25 313.7M</title></rect>
+<rect x="153.3" y="195.2" width="17.0" height="28.8" rx="1.5" fill="#1f6feb"><title>2026-10-26 467.9M</title></rect>
+<rect x="178.4" y="208.5" width="17.0" height="15.5" rx="1.5" fill="#1f6feb"><title>2026-10-27 252.9M</title></rect>
+<rect x="203.5" y="213.8" width="17.0" height="10.2" rx="1.5" fill="#1f6feb"><title>2026-10-28 166.6M</title></rect>
+<rect x="228.5" y="216.6" width="17.0" height="7.4" rx="1.5" fill="#1f6feb"><title>2026-10-29 119.6M</title></rect>
+<rect x="253.6" y="205.3" width="17.0" height="18.7" rx="1.5" fill="#1f6feb"><title>2026-10-30 304.8M</title></rect>
+<rect x="278.7" y="212.6" width="17.0" height="11.4" rx="1.5" fill="#1f6feb"><title>2026-10-31 185.8M</title></rect>
+<rect x="303.7" y="172.1" width="17.0" height="51.9" rx="1.5" fill="#1f6feb"><title>2026-11-01 844.0M</title></rect>
+<rect x="328.8" y="178.9" width="17.0" height="45.1" rx="1.5" fill="#1f6feb"><title>2026-11-02 733.9M</title></rect>
+<rect x="353.9" y="201.2" width="17.0" height="22.8" rx="1.5" fill="#1f6feb"><title>2026-11-03 371.6M</title></rect>
+<rect x="378.9" y="184.9" width="17.0" height="39.1" rx="1.5" fill="#1f6feb"><title>2026-11-04 635.7M</title></rect>
+<rect x="404.0" y="181.2" width="17.0" height="42.8" rx="1.5" fill="#1f6feb"><title>2026-11-05 696.1M</title></rect>
+<rect x="429.1" y="198.8" width="17.0" height="25.2" rx="1.5" fill="#1f6feb"><title>2026-11-06 410.3M</title></rect>
+<rect x="454.1" y="188.5" width="17.0" height="35.5" rx="1.5" fill="#1f6feb"><title>2026-11-07 577.2M</title></rect>
+<rect x="479.2" y="189.8" width="17.0" height="34.2" rx="1.5" fill="#1f6feb"><title>2026-11-08 555.7M</title></rect>
+<rect x="504.3" y="160.4" width="17.0" height="63.6" rx="1.5" fill="#1f6feb"><title>2026-11-09 1.0B</title></rect>
+<rect x="529.3" y="172.2" width="17.0" height="51.8" rx="1.5" fill="#1f6feb"><title>2026-11-10 843.0M</title></rect>
+<rect x="554.4" y="180.3" width="17.0" height="43.7" rx="1.5" fill="#1f6feb"><title>2026-11-11 710.2M</title></rect>
+<rect x="579.5" y="183.0" width="17.0" height="41.0" rx="1.5" fill="#1f6feb"><title>2026-11-12 667.1M</title></rect>
+<rect x="604.5" y="137.7" width="17.0" height="86.3" rx="1.5" fill="#1f6feb"><title>2026-11-13 1.4B</title></rect>
+<rect x="629.6" y="146.3" width="17.0" height="77.7" rx="1.5" fill="#1f6feb"><title>2026-11-14 1.3B</title></rect>
+<rect x="654.7" y="92.0" width="17.0" height="132.0" rx="1.5" fill="#1f6feb"><title>2026-11-15 2.1B</title></rect>
+<rect x="679.7" y="106.4" width="17.0" height="117.6" rx="1.5" fill="#1f6feb"><title>2026-11-16 1.9B</title></rect>
+<rect x="704.8" y="122.7" width="17.0" height="101.3" rx="1.5" fill="#1f6feb"><title>2026-11-17 1.6B</title></rect>
+<rect x="729.9" y="164.5" width="17.0" height="59.5" rx="1.5" fill="#1f6feb"><title>2026-11-18 967.1M</title></rect>
+<rect x="729.9" y="151.3" width="17.0" height="13.2" rx="1.5" fill="#e8a33d"><title>2026-11-18 214.8M</title></rect>
+<rect x="754.9" y="151.0" width="17.0" height="73.0" rx="1.5" fill="#1f6feb"><title>2026-11-19 1.2B</title></rect>
+<rect x="754.9" y="149.5" width="17.0" height="1.5" rx="1.5" fill="#e8a33d"><title>2026-11-19 13.1M</title></rect>
+<text x="36.5" y="246" font-size="11" text-anchor="middle" fill="#59636e">10-21</text>
+<text x="412.5" y="246" font-size="11" text-anchor="middle" fill="#59636e">11-05</text>
+<text x="763.5" y="246" font-size="11" text-anchor="middle" fill="#59636e">11-19</text>
 </svg>
